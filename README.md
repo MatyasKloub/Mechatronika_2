@@ -1,4 +1,4 @@
-2. úloha z předmětu OPS
+Druhá úloha z předmětu OPS
 
 main.cpp 
 -> obsahuje hlavní logiku programu

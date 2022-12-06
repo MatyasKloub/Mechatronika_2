@@ -48,7 +48,7 @@ void text3_thread()
             lcd.DisplayStringAtLine(SMER3, (uint8_t *)TEXT3);
 
             ThisThread::sleep_for(CAS3);
-            lcd.ClearStringLine(SMER1);
+            lcd.ClearStringLine(SMER3);
             ThisThread::sleep_for(CAS3);
         
     }

@@ -57,9 +57,9 @@ void text3_thread()
 
 int main()
 {    
-    thread1.start(text1_thread());
-    thread2.start(text2_thread());
-    thread3.start(text3_thread());
+    thread1.start(text1_thread);
+    thread2.start(text2_thread);
+    thread3.start(text3_thread);
 }
 
 
